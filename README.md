@@ -5,7 +5,7 @@ FIFA World Cup 2026 schedule viewer (IST), grouped by day, next game highlighted
 ## Usage
 
 ```fish
-fish /path/to/fifa.fish
+fish ./fifa.fish
 ```
 
 Requires `jq` and `awk`.
@@ -16,9 +16,7 @@ ASCII table with day groupings. The next upcoming match is highlighted. Today's 
 
 ## Files
 
-+------------+----------------------------------+
-| File       | Purpose                          |
-+------------+----------------------------------+
-| fifa.fish  | Standalone fish script            |
-| fifa.json  | Match data (JSON)                 |
-+------------+----------------------------------+
+| File | Purpose |
+| --- | --- |
+| fifa.fish | Standalone fish script |
+| fifa.json | Match data (JSON) |
