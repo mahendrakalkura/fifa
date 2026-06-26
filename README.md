@@ -8,11 +8,11 @@ FIFA World Cup 2026 schedule viewer (IST), grouped by day, next game highlighted
 fish ./fifa.fish
 ```
 
-Requires `jq` and `awk`.
+Requires `jq`, `awk`, and `date`. The interactive (terminal) view also needs `tput` and `less`.
 
 ## Output
 
-ASCII table with day groupings. The next upcoming match is highlighted. Today's day header uses a distinct color. When run in a terminal, the view is centered on today's games.
+ASCII table with day groupings. The next upcoming match is highlighted, and its day header uses a distinct color. When run in a terminal, the view is centered on the next match's day.
 
 ## Files
 

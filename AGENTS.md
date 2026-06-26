@@ -14,6 +14,9 @@ Fish script that displays the FIFA World Cup 2026 schedule in a terminal ASCII t
 - fish shell
 - jq
 - awk
+- date
+- tput (interactive view only)
+- less (interactive view only)
 
 ## Conventions
 
