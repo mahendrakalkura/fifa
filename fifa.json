@@ -905,11 +905,11 @@
     "away": "Morocco",
     "date": "Jun 30",
     "weekday": "Tuesday",
-    "from_ist": "5:30 AM",
-    "to_ist": "7:30 AM",
+    "from_ist": "6:30 AM",
+    "to_ist": "8:30 AM",
     "location": "Guadalupe, Mexico",
     "round": "Round of 32",
-    "start_epoch": 1782777600
+    "start_epoch": 1782781200
   },
   {
     "match": 78,
@@ -941,11 +941,11 @@
     "away": "Ecuador",
     "date": "Jul 01",
     "weekday": "Wednesday",
-    "from_ist": "5:30 AM",
-    "to_ist": "7:30 AM",
+    "from_ist": "6:30 AM",
+    "to_ist": "8:30 AM",
     "location": "Mexico City, Mexico",
     "round": "Round of 32",
-    "start_epoch": 1782864000
+    "start_epoch": 1782867600
   },
   {
     "match": 80,
@@ -1097,11 +1097,11 @@
     "away": "Match 80 winners",
     "date": "Jul 06",
     "weekday": "Monday",
-    "from_ist": "4:30 AM",
-    "to_ist": "6:30 AM",
+    "from_ist": "5:30 AM",
+    "to_ist": "7:30 AM",
     "location": "Mexico City, Mexico",
     "round": "Round of 16",
-    "start_epoch": 1783292400
+    "start_epoch": 1783296000
   },
   {
     "match": 93,
