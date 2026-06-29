@@ -876,6 +876,18 @@
     "start_epoch": 1782673200
   },
   {
+    "match": 76,
+    "home": "Brazil",
+    "away": "Japan",
+    "date": "Jun 29",
+    "weekday": "Monday",
+    "from_ist": "10:30 PM",
+    "to_ist": "12:30 AM",
+    "location": "Houston, USA",
+    "round": "Round of 32",
+    "start_epoch": 1782752400
+  },
+  {
     "match": 74,
     "home": "Germany",
     "away": "Paraguay",
@@ -900,16 +912,16 @@
     "start_epoch": 1782777600
   },
   {
-    "match": 76,
-    "home": "Brazil",
-    "away": "Japan",
-    "date": "Jun 29",
-    "weekday": "Monday",
+    "match": 78,
+    "home": "Ivory Coast",
+    "away": "Norway",
+    "date": "Jun 30",
+    "weekday": "Tuesday",
     "from_ist": "10:30 PM",
     "to_ist": "12:30 AM",
-    "location": "Houston, USA",
+    "location": "Arlington, USA",
     "round": "Round of 32",
-    "start_epoch": 1782752400
+    "start_epoch": 1782838800
   },
   {
     "match": 77,
@@ -922,18 +934,6 @@
     "location": "East Rutherford, USA",
     "round": "Round of 32",
     "start_epoch": 1782853200
-  },
-  {
-    "match": 78,
-    "home": "Ivory Coast",
-    "away": "Norway",
-    "date": "Jun 30",
-    "weekday": "Tuesday",
-    "from_ist": "10:30 PM",
-    "to_ist": "12:30 AM",
-    "location": "Arlington, USA",
-    "round": "Round of 32",
-    "start_epoch": 1782838800
   },
   {
     "match": 79,
@@ -960,18 +960,6 @@
     "start_epoch": 1782921600
   },
   {
-    "match": 81,
-    "home": "USA",
-    "away": "Bosnia and Herzegovina",
-    "date": "Jul 02",
-    "weekday": "Thursday",
-    "from_ist": "5:30 AM",
-    "to_ist": "7:30 AM",
-    "location": "Santa Clara, USA",
-    "round": "Round of 32",
-    "start_epoch": 1782950400
-  },
-  {
     "match": 82,
     "home": "Belgium",
     "away": "Senegal",
@@ -984,16 +972,16 @@
     "start_epoch": 1782936000
   },
   {
-    "match": 83,
-    "home": "Portugal",
-    "away": "Croatia",
-    "date": "Jul 03",
-    "weekday": "Friday",
-    "from_ist": "4:30 AM",
-    "to_ist": "6:30 AM",
-    "location": "Toronto, Canada",
+    "match": 81,
+    "home": "USA",
+    "away": "Bosnia and Herzegovina",
+    "date": "Jul 02",
+    "weekday": "Thursday",
+    "from_ist": "5:30 AM",
+    "to_ist": "7:30 AM",
+    "location": "Santa Clara, USA",
     "round": "Round of 32",
-    "start_epoch": 1783033200
+    "start_epoch": 1782950400
   },
   {
     "match": 84,
@@ -1008,6 +996,18 @@
     "start_epoch": 1783018800
   },
   {
+    "match": 83,
+    "home": "Portugal",
+    "away": "Croatia",
+    "date": "Jul 03",
+    "weekday": "Friday",
+    "from_ist": "4:30 AM",
+    "to_ist": "6:30 AM",
+    "location": "Toronto, Canada",
+    "round": "Round of 32",
+    "start_epoch": 1783033200
+  },
+  {
     "match": 85,
     "home": "Switzerland",
     "away": "Algeria",
@@ -1018,6 +1018,18 @@
     "location": "Vancouver, Canada",
     "round": "Round of 32",
     "start_epoch": 1783047600
+  },
+  {
+    "match": 88,
+    "home": "Australia",
+    "away": "Egypt",
+    "date": "Jul 03",
+    "weekday": "Friday",
+    "from_ist": "11:30 PM",
+    "to_ist": "1:30 AM",
+    "location": "Arlington, USA",
+    "round": "Round of 32",
+    "start_epoch": 1783101600
   },
   {
     "match": 86,
@@ -1044,16 +1056,16 @@
     "start_epoch": 1783128600
   },
   {
-    "match": 88,
-    "home": "Australia",
-    "away": "Egypt",
-    "date": "Jul 03",
-    "weekday": "Friday",
-    "from_ist": "11:30 PM",
-    "to_ist": "1:30 AM",
-    "location": "Arlington, USA",
-    "round": "Round of 32",
-    "start_epoch": 1783101600
+    "match": 90,
+    "home": "Match 73 winners",
+    "away": "Match 75 winners",
+    "date": "Jul 04",
+    "weekday": "Saturday",
+    "from_ist": "10:30 PM",
+    "to_ist": "12:30 AM",
+    "location": "Houston, USA",
+    "round": "Round of 16",
+    "start_epoch": 1783184400
   },
   {
     "match": 89,
@@ -1066,18 +1078,6 @@
     "location": "Philadelphia, USA",
     "round": "Round of 16",
     "start_epoch": 1783198800
-  },
-  {
-    "match": 90,
-    "home": "Match 73 winners",
-    "away": "Match 75 winners",
-    "date": "Jul 04",
-    "weekday": "Saturday",
-    "from_ist": "10:30 PM",
-    "to_ist": "12:30 AM",
-    "location": "Houston, USA",
-    "round": "Round of 16",
-    "start_epoch": 1783184400
   },
   {
     "match": 91,
